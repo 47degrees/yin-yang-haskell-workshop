@@ -11,4 +11,4 @@ This repository contains the material needed to follow the *Yin and Yang of Hask
 
 ## In the workshop
 
-See you then!
+Each folder contains one of the exercises to do. Most of the files are thought to be executed using `runghc`.
